@@ -1,0 +1,14 @@
+﻿	(******************************)
+	(*                            *)
+	(*     EXPORTED VARIABLES     *)
+	(*                            *)
+	(******************************)
+
+        VAR_GLOBAL
+	{G:"Variables"}
+Di00CPU AT %IX255.0 : BOOL;	{ DE:"Di00 CPU module" }
+Di01CPU AT %IX255.1 : BOOL;	{ DE:"Di01 CPU module" }
+Do00CPU AT %QX255.0 : BOOL;	{ DE:"Do00 CPU module" }
+Do01CPU AT %QX255.1 : BOOL;	{ DE:"Do01 CPU module" }
+	END_VAR
+
