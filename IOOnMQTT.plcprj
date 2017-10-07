@@ -1875,8 +1875,8 @@ END_VAR
  output by comunicating through the broker. So it realizes an example of data
  exchange between different systems by using a MQTT protocol.
 
- It's a part of ModbusGateway project.
- Link: https://github.com/ElsistWebmaster/ModbusGateway/archive/master.zip
+ It's a part of IOOnMQTT project.
+ Link: https://github.com/ElsistWebmaster/IOOnMQTT/archive/master.zip
 
  Variable declarations:
 
@@ -4305,7 +4305,7 @@ END_FUNCTION
 			</src>
 		</aux>
 		<workspace>
-			<root name="IOOnMQTT" nextID="39">
+			<root name="IOOnMQTT" nextID="59">
 				<folder name="POUs" id="1">
 					<Pou name="MQTTExchange" id="10"/>
 				</folder>
